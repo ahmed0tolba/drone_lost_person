@@ -18,8 +18,3 @@ Below are screen shots of the app<br><br>
 <img src="https://github.com/ahmed0tolba/drone_lost_person/blob/main/screenshoots/10.png" width="300" />
 <img src="https://github.com/ahmed0tolba/drone_lost_person/blob/main/screenshoots/12.png" width="300" />
 <img src="https://github.com/ahmed0tolba/drone_lost_person/blob/main/screenshoots/20.jpg" width="300" />
-<img src="" width="300" />
-<img src="" width="300" />
-<img src="" width="300" />
-<img src="" width="300" />
-
